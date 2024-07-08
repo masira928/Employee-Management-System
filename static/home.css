@@ -1,0 +1,31 @@
+
+#d0{
+    border:1px solid black;
+   
+    }
+    .center {
+      position: absolute;
+      top: 20%;
+      width: 100%;
+      text-align: center;
+      font-size: 80px;
+      font-family:lucida handwriting;
+      font-weight: bolder;
+      color: rgb(17, 216, 234);
+      text-shadow: 5px 5px black;
+            
+    }
+    #aa{
+        color:white;
+        text-decoration:none;
+      font-size: 30px;
+        }
+    
+    #aa:hover{
+            color: rgb(49, 244, 241);
+      }
+    #img { 
+      width: 100%;
+      height: auto;
+      opacity: 0.9;
+    }
